@@ -1,4 +1,4 @@
-package com.nttdata.controller;
+package com.nttdata.service;
 
 import com.nttdata.clases.Person;
 
